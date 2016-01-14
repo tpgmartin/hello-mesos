@@ -1,0 +1,8 @@
+{
+  "id": "hello-mesos-tmartin",
+  "owners": ["tmartin@opentable.com"],
+  "daemon": true,
+  "rackSensitive": false,
+  "loadBalanced": false,
+  "instances": 2
+}
